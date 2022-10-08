@@ -1,6 +1,6 @@
 ### Hi there,Welcome to my github profile! 👋
 - 🌱 I’m currently learning Javascript.
-- [link](https://cdn.discordapp.com/attachments/920846680147001414/1028216602203795476/giphy.gif)
+- img(src = "https://media.discordapp.net/attachments/920846680147001414/1028217561629851688/WG8V.gif")
 
 
 <!--

@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nontagrich Panpanich</h1>
 <h3 align="center">Now, I'm student of Benjamarachutit Ratchaburi School.</h3>
+<p align="right"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width = "300"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nontagrich&label=Profile%20views&color=0e75b6&style=flat" alt="nontagrich" /> </p>
 
-<p align="right"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width = "300"/> </p>
+
 
 <h3 align="left">My Contact:</h3>
 <p align="left">

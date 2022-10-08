@@ -18,10 +18,10 @@
 
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nontagrich&show_icons=true&locale=en" alt="nontagrich" /></p>
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nontagrich&" alt="nontagrich" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nontagrich&show_icons=true&locale=en" alt="nontagrich" /></p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nontagrich&show_icons=true&locale=en&layout=compact" alt="nontagrich" /></p>
 
 

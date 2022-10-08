@@ -2,7 +2,7 @@
 <h3 align="center">Now, I'm student of Benjamarachutit Ratchaburi School.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nontagrich&label=Profile%20views&color=0e75b6&style=flat" alt="nontagrich" /> </p>
-<p align="right"> <img src="https://media.discordapp.net/attachments/920846680147001414/1028223098752860250/tumblr_499e70055b295ccadc3cc9d716fde109_0ad09c7e_500.gif" alt="nontagrich"  width = "300" /> </p>
+<p align="left"> <img src="https://media.discordapp.net/attachments/920846680147001414/1028226941163147264/He_spin___Pokemon_Sun_and_Moon.gif" alt="nontagrich"  width = "400" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/น้อนเหนียว กำหมัดลาาน้าา" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="น้อนเหนียว กำหมัดลาาน้าา" height="30" width="40" /></a>

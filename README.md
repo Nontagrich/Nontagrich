@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Javascript.
 - [link](https://cdn.discordapp.com/attachments/920846680147001414/1028216602203795476/giphy.gif)
 
-<a href="https://cdn.discordapp.com/attachments/920846680147001414/1028216602203795476/giphy.gif">Pokemon</a>
+
 <!--
 **Nontagrich/Nontagrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

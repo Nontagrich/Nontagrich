@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://media.discordapp.net/attachments/920846680147001414/1028226941163147264/He_spin___Pokemon_Sun_and_Moon.gif" alt="nontagrich" width = "300"/> </p>
 
-<h3 align="right">My Contact:</h3>
-<p align="right">
+<h3 align="left">My Contact:</h3>
+<p align="left">
 <a href="https://www.facebook.com/profile.php?id=100072975150701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="น้อนเหนียว กำหมัดลาาน้าา" height="30" width="40" /></a>
 <a href="https://instagram.com/neokrubz_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neokrubz_z" height="30" width="40" /></a>
 </p>

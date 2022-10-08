@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nontagrich&label=Profile%20views&color=0e75b6&style=flat" alt="nontagrich" /> </p>
 <p align="left"> <img src="https://media.discordapp.net/attachments/920846680147001414/1028226155658104842/Pokemon_Sun_and_Moon.gif" alt="nontagrich" /> </p>
-<p align="right"> <img src="https://media.discordapp.net/attachments/920846680147001414/1028226941163147264/He_spin___Pokemon_Sun_and_Moon.gif" alt="nontagrich" width = "200"/> </p>
+<p align="right"> <img src="https://media.discordapp.net/attachments/920846680147001414/1028226941163147264/He_spin___Pokemon_Sun_and_Moon.gif" alt="nontagrich" width = "400"/> </p>
 
 <h3 align="left">My Contact:</h3>
 <p align="left">

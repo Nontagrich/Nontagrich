@@ -19,7 +19,7 @@
  
 </div>
 
-<p>&nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/cl9fpd66600160gmdhu9v57ft/stats?cursusId=3&coalitionId=piscine" alt="npanpani's 42 stats" width="800" /></a><img align="center" src="https://github-readme-stats.vercel.app/api?username=nontagrich&show_icons=true&locale=en" alt="nontagrich" /></p> 
+<p>&nbsp;<a href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/cl9fpd66600160gmdhu9v57ft/stats?cursusId=3&coalitionId=piscine" alt="npanpani's 42 stats" width="400" /></a><img align="center" src="https://github-readme-stats.vercel.app/api?username=nontagrich&show_icons=true&locale=en" alt="nontagrich" /></p> 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nontagrich&" alt="nontagrich" /></p>
 

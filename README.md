@@ -16,7 +16,7 @@
 
 </div>
 
-  <a href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/cl9fpd66600160gmdhu9v57ft/stats?cursusId=3&coalitionId=piscine" alt="npanpani's 42 stats" /></a>
+  <a align="center" href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/cl9fpd66600160gmdhu9v57ft/stats?cursusId=3&coalitionId=piscine" alt="npanpani's 42 stats" /></a>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nontagrich&show_icons=true&locale=en" alt="nontagrich" /></p>

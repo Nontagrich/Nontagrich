@@ -20,5 +20,4 @@
 
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nontagrich&" alt="nontagrich" width = "420"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nontagrich&show_icons=true&locale=en&layout=compact" alt="nontagrich"/></p>
 
-
 <p align="right"></p>

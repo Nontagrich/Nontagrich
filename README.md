@@ -16,9 +16,6 @@
 
 <div align="center">
   <img src="[URL_ของรูป_1](https://media.discordapp.net/attachments/920846679702396976/1490169744710565898/alya-kujou.gif?ex=69d31439&is=69d1c2b9&hm=08c3b6fb673f00f7e350f635d47b51cdc0911bb7f97e3b4b69ebadcf90cdb10d&=&width=563&height=563)" width="150" />
-  <img src="[URL_ของรูป_2](https://media.discordapp.net/attachments/920846679702396976/1490169744710565898/alya-kujou.gif?ex=69d31439&is=69d1c2b9&hm=08c3b6fb673f00f7e350f635d47b51cdc0911bb7f97e3b4b69ebadcf90cdb10d&=&width=563&height=563)" width="150" />
-  <img src="[URL_ของรูป_3](https://media.discordapp.net/attachments/920846679702396976/1490169744710565898/alya-kujou.gif?ex=69d31439&is=69d1c2b9&hm=08c3b6fb673f00f7e350f635d47b51cdc0911bb7f97e3b4b69ebadcf90cdb10d&=&width=563&height=563)" width="150" />
-  <img src="[URL_ของรูป_4](https://media.discordapp.net/attachments/920846679702396976/1490169744710565898/alya-kujou.gif?ex=69d31439&is=69d1c2b9&hm=08c3b6fb673f00f7e350f635d47b51cdc0911bb7f97e3b4b69ebadcf90cdb10d&=&width=563&height=563)" width="150" />
 </div>
 
 

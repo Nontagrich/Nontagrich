@@ -14,8 +14,9 @@
 
 </div>
 
+<div align="center">
+  <img src="[URL_ของรูป_1](https://tenor.com/view/alya-kujou-russian-girl-alya-kujou-alisa-kujou-gif-2046155143871176292)" width="150" />
 </div>
-
 
 
 

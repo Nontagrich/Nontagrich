@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nontagrich Panpanich</h1>
-<h3 align="center">Now, I'm student of Benjamarachutit Ratchaburi School.</h3>
+<h3 align="center">Now, I am currently a student at KMUTT..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nontagrich&label=Profile%20views&color=0e75b6&style=flat" alt="nontagrich" /> </p>
 <p align="center"> <img src="https://media.discordapp.net/attachments/920846680147001414/1028226941163147264/He_spin___Pokemon_Sun_and_Moon.gif" alt="nontagrich"  width = "400" /> </p>
